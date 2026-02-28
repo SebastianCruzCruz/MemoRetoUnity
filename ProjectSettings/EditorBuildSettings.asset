@@ -14,6 +14,21 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Game.unity
     guid: 41e27f34797ba41abb516d7554261009
+  - enabled: 1
+    path: Assets/Scenes/Bosque.unity
+    guid: fa495fc0b1319429a845e1890ad1bb82
+  - enabled: 1
+    path: Assets/Scenes/Desierto.unity
+    guid: 0923a3bc461114ee6911b66eb5185d72
+  - enabled: 1
+    path: Assets/Scenes/Tundra.unity
+    guid: 42f103043bb9e4cb7b9a0d9782fde8de
+  - enabled: 1
+    path: Assets/Scenes/Agua.unity
+    guid: f7506aa1129cb4efe875650ab4810d1c
+  - enabled: 1
+    path: Assets/Scenes/Volcan.unity
+    guid: fe7d19f9f9b424464968f390996ff05e
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
   m_UseUCBPForAssetBundles: 0
