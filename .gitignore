@@ -97,3 +97,19 @@ InitTestScene*.unity*
 
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+
+# Asset Store Packages (descargar desde Unity Asset Store)
+/[Aa]ssets/RPGPP_LT/
+/[Aa]ssets/RPGPP_LT.meta
+/[Aa]ssets/SimpleNaturePack/
+/[Aa]ssets/SimpleNaturePack.meta
+/[Aa]ssets/LowPolyTropicalEnvironment_LITE/
+/[Aa]ssets/LowPolyTropicalEnvironment_LITE.meta
+/[Aa]ssets/Lowpoly Forest Pack Winter/
+/[Aa]ssets/Lowpoly Forest Pack Winter.meta
+/[Aa]ssets/Tiny Teacup Studio/
+/[Aa]ssets/Tiny Teacup Studio.meta
+/[Aa]ssets/ithappy/
+/[Aa]ssets/ithappy.meta
+/[Aa]ssets/PolyRonin/
+/[Aa]ssets/PolyRonin.meta
