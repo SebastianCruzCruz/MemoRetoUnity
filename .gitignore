@@ -113,3 +113,6 @@ InitTestScene*.unity*
 /[Aa]ssets/ithappy.meta
 /[Aa]ssets/PolyRonin/
 /[Aa]ssets/PolyRonin.meta
+.idea/ 
+.vscode/ 
+*.slnx 
